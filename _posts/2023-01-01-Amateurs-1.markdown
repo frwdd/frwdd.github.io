@@ -2,7 +2,7 @@
 layout: post
 title:  "Amateurs #1"
 date:   2023-01-01 09:00:00 +0100
-categories: Texte, Magazine & Literatur
+categories: Texte_Magazine_Literatur
 ---
 
 Amateurs ist ein neues Magazin von den Leuten hinter [@fspoutdoors](https://www.instagram.com/fspoutdoors). Ich bin eher zufällig darüber gestolpert, als ich mich bei [Deru](https://derusocial.com/) nach den Angeboten im Sale umgesehen habe.
